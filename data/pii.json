@@ -1,0 +1,93 @@
+[
+ {
+  "texto": "Meu CPF é 529.982.247-25",
+  "esperado": [
+   "cpf"
+  ]
+ },
+ {
+  "texto": "cpf 52998224725 por favor",
+  "esperado": [
+   "cpf"
+  ]
+ },
+ {
+  "texto": "CNPJ da loja: 11.222.333/0001-81",
+  "esperado": [
+   "cnpj"
+  ]
+ },
+ {
+  "texto": "Cartão 4111 1111 1111 1111 validade 12/28",
+  "esperado": [
+   "cartao"
+  ]
+ },
+ {
+  "texto": "paga no 5555-5555-5555-4444",
+  "esperado": [
+   "cartao"
+  ]
+ },
+ {
+  "texto": "Me liga em (81) 99931-8775",
+  "esperado": [
+   "telefone"
+  ]
+ },
+ {
+  "texto": "WhatsApp +55 81 99931-8775",
+  "esperado": [
+   "telefone"
+  ]
+ },
+ {
+  "texto": "email maria.silva@exemplo.com.br",
+  "esperado": [
+   "email"
+  ]
+ },
+ {
+  "texto": "CPF 529.982.247-25 e email a@b.com",
+  "esperado": [
+   "cpf",
+   "email"
+  ]
+ },
+ {
+  "texto": "Meu pedido é 12345678",
+  "esperado": []
+ },
+ {
+  "texto": "O CPF 111.111.111-11 não é válido",
+  "esperado": []
+ },
+ {
+  "texto": "Número 123.456.789-00",
+  "esperado": []
+ },
+ {
+  "texto": "Protocolo 20261116103000",
+  "esperado": []
+ },
+ {
+  "texto": "Total R$ 1.234,56 em 3x",
+  "esperado": []
+ },
+ {
+  "texto": "Chegou às 10:30 do dia 16/11/2026",
+  "esperado": []
+ },
+ {
+  "texto": "Pedido 5555 5555 5555",
+  "esperado": []
+ },
+ {
+  "texto": "Telefone da loja 3333-4444",
+  "esperado": []
+ },
+ {
+  "texto": "CEP 55150-000",
+  "esperado": []
+ }
+]
